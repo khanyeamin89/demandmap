@@ -1,0 +1,8 @@
+{
+  "name": "Bangladesh Trend & Demand Dashboard",
+  "description": "An interactive full-stack dashboard for tracking, visualizing, and forecasting social media and e-commerce product demands across all 64 districts of Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
